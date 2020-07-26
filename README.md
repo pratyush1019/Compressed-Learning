@@ -1,2 +1,2 @@
-# aip_project
-AIP course project based on Compressive Learning using SVM
+# Compressed Learning using SVMs
+Advanced Image Processing course project based on Compressive Learning using SVM
